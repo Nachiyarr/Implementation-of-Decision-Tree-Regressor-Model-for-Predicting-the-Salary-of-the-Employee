@@ -25,9 +25,9 @@ Step 7: End the program
 ## Program:
 
 
-Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
-Developed by: ALAGU NACHIYAR K
-RegisterNumber: 212222240006  
+#### Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
+#### Developed by: ALAGU NACHIYAR K
+#### RegisterNumber: 212222240006  
 ```
 import numpy as np
 import pandas as pd
